@@ -1,6 +1,6 @@
 # Hi, I'm Sandesh!
 
-- I'm passionate about building scalable and maintainable applications 🚀
+- I'm passionate about building distributed systems that scale on a larger level 🚀
 
 
 
